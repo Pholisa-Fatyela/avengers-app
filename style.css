@@ -1,0 +1,24 @@
+.gallery img {
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+}
+/* Add to style.css */
+/* .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+}
+.card {
+    background: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 12px;
+    text-align: center;
+    width: 160px;
+}
+.card img {
+    border-radius: 50%;
+    margin-bottom: 8px;
+} */
